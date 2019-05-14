@@ -1,2 +1,5 @@
 name: Keerthi Dasala, Ph.D student at Rice University
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
+
